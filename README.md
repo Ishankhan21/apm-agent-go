@@ -1,3 +1,5 @@
+PR FOR REDIS INSTRUMENTATION UPGRADE:https://github.com/elastic/apm-agent-go/pull/1645
+
 [![Build Status](https://github.com/elastic/apm-agent-go/actions/workflows/ci.yml/badge.svg)](https://github.com/elastic/apm-agent-go/actions/workflows/ci.yml)
 [![PkgGoDev](https://pkg.go.dev/badge/go.elastic.co/apm/v2)](https://pkg.go.dev/go.elastic.co/apm/v2)
 [![Go Report Card](https://goreportcard.com/badge/go.elastic.co/apm/v2)](https://goreportcard.com/report/go.elastic.co/apm/v2)
